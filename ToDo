@@ -1,0 +1,7 @@
+1. Reproduce the offline log analysis experiment with toy demo using monpoly. OK
+2. Reproduce the offline log analysis experiment with 18G's Nokia's cvs log file using monpoly.
+
+3. Design a toy scenario where RV-Monitor uses a simple property (written in MOP) to monitor the log file.
+
+4. Scale up. Use RV-Monitor to monitor the 18G's log. Using single machine.
+5. Use MPI/ MapReduce to parallelize the work.
